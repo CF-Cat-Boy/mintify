@@ -8,4 +8,4 @@ Perks of having linux instead of chromeOS:
 * Anything &ndash; and i mean *anything* &ndash; is better than chromeOS.
 
 
-You can expect to have your chromebook back ~1-2 days after giving it to me to Mintify.
+You can expect to have your chromebook back ~~~1-2 days~~ ~0.5-1 days after giving it to me to Mintify.
